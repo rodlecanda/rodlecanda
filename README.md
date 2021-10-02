@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rodlecanda
-- 👀 I’m interested in IoT, Data science, web design and cloud computing.
+- 👀 I’m interested in IoT, Data science, web design and AI.
 - 🌱 I’m currently learning python. I'm a begginer by now.
 - 💞️ I’m looking to collaborate on data science projects as well as IoT.
 - 📫 You can find me here on GitHub or LinkedIn as Rodrigo Lecanda-Rodriguez
